@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="binarysearch"/>
+	<classpathentry kind="src" path="bits"/>
+	<classpathentry kind="src" path="dynamic"/>
+	<classpathentry kind="src" path="geometry"/>
+	<classpathentry kind="src" path="graph"/>
+	<classpathentry kind="src" path="linkedlist"/>
+	<classpathentry kind="src" path="misc"/>
+	<classpathentry kind="src" path="MultiArray"/>
+	<classpathentry kind="src" path="Multithreaded"/>
+	<classpathentry kind="src" path="Number"/>
+	<classpathentry kind="src" path="playground"/>
+	<classpathentry kind="src" path="Random"/>
+	<classpathentry kind="src" path="Recursion"/>
+	<classpathentry kind="src" path="Regex"/>
+	<classpathentry kind="src" path="Sort"/>
+	<classpathentry kind="src" path="Stack-Queue"/>
+	<classpathentry kind="src" path="String"/>
+	<classpathentry kind="src" path="Suffix-Prefix"/>
+	<classpathentry kind="src" path="Tree"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
